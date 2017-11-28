@@ -28,8 +28,9 @@ Input/Output
     [output] string
     Your decrypted message.
 
-    ## Run ##
+    
+## Run ##
 
-    ```sh
+    ```
     $ node fibonacci_sequence.js
     ```
