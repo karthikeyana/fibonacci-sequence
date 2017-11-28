@@ -30,7 +30,6 @@ Input/Output
 
     
 ## Run ##
-
-    ```
-    $ node fibonacci_sequence.js
-    ```
+```
+$ node fibonacci_sequence.js
+```
